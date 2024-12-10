@@ -17,6 +17,9 @@ Developer: https://t.me/pysmart
 # VIDEO DEMO
 https://youtu.be/XiAQyCk8Dtg?si=DEezT4STk9JW6xGr
 
+![sl1](https://github.com/user-attachments/assets/0a714298-32cf-4beb-9362-f7dd666a4132)
+
+
 DISCLAIMER: 
 This is just for educational purpose and I am not responsible for any unlawful act of the usage.
 
