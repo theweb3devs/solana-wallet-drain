@@ -19,3 +19,5 @@ https://youtu.be/XiAQyCk8Dtg?si=DEezT4STk9JW6xGr
 
 DISCLAIMER: 
 This is just for educational purpose and I am not responsible for any unlawful act of the usage.
+
+SOLANA CRYPTO DRAINER
