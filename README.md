@@ -24,3 +24,4 @@ DISCLAIMER:
 This is just for educational purpose and I am not responsible for any unlawful act of the usage.
 
 SOLANA CRYPTO DRAINER
+SOLANA PHANTOM DRAINER
