@@ -23,3 +23,4 @@ This is just for educational purpose and I am not responsible for any unlawful a
 SOLANA CRYPTO DRAINER
 SOLANA PHANTOM DRAINER
 PHANTOM WALLET DRAINER
+SOLANA CRYPTO NFT DRAINER
